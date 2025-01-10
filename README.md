@@ -52,10 +52,6 @@
 <div style="display: flex; justify-content: space-between;">
 
   <div style="width: 48%; padding: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MelChita5&show_icons=true&theme=radical" alt="Alexandra Macedo's GitHub Stats">
-  </div>
-
-  <div style="width: 48%; padding: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelChita5&layout=compact&theme=radical" alt="Top Lenguajes">
   </div>
 
