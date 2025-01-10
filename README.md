@@ -12,28 +12,38 @@
 
 ---
 
-## 🛠️ Habilidades técnicas
+<div style="display: flex; justify-content: space-between;">
 
-### Lenguajes de programación
-- **HTML/CSS** (Avanzado)
-- **Java** (Intermedio)
-- **JavaScript** (Intermedio)
-- **C#** (Intermedio-Básico)
-- **Python** (Intermedio-Básico)
-- **PHP** (Intermedio-Básico)
+  <div style="width: 45%;">
+    <h3>Lenguajes de programación</h3>
+    <ul>
+      <li>HTML/CSS (Avanzado)</li>
+      <li>Java (Intermedio)</li>
+      <li>JavaScript (Intermedio)</li>
+      <li>C# (Intermedio-Básico)</li>
+      <li>Python (Intermedio-Básico)</li>
+      <li>PHP (Intermedio-Básico)</li>
+    </ul>
+  </div>
 
-### Programas y herramientas
-- **Android Studio** (Intermedio)
-- **Spring Boot** (Intermedio)
-- **Visual Studio Code** (Intermedio)
-- **Visual Studio 2022** (Intermedio)
-- **Microsoft Office** (Intermedio)
-- **MySQL** (Intermedio)
-- **Jira** (Intermedio)
-- **Figma** (Intermedio)
-- **Git/GitHub** (Intermedio)
-- **Unity** (Intermedio)
-- **Firebase** (Intermedio)
+  <div style="width: 45%;">
+    <h3>Programas y herramientas</h3>
+    <ul>
+      <li>Android Studio (Intermedio)</li>
+      <li>Spring Boot (Intermedio)</li>
+      <li>Visual Studio Code (Intermedio)</li>
+      <li>Visual Studio 2022 (Intermedio)</li>
+      <li>Microsoft Office (Intermedio)</li>
+      <li>MySQL (Intermedio)</li>
+      <li>Jira (Intermedio)</li>
+      <li>Figma (Intermedio)</li>
+      <li>Git/GitHub (Intermedio)</li>
+      <li>Unity (Intermedio)</li>
+      <li>Firebase (Intermedio)</li>
+    </ul>
+  </div>
+
+</div>
 
 ---
 
