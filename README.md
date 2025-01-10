@@ -39,8 +39,6 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Alexandra Macedo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MelChita5&show_icons=true&theme=radical)
-
 ![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelChita5&layout=compact&theme=radical)
 
 ---
