@@ -14,7 +14,7 @@
 
 <div style="display: flex; justify-content: space-between;">
 
-  <div style="width: 45%;">
+  <div style="width: 48%; padding: 10px;">
     <h3>Lenguajes de programación</h3>
     <ul>
       <li>HTML/CSS (Avanzado)</li>
@@ -26,7 +26,7 @@
     </ul>
   </div>
 
-  <div style="width: 45%;">
+  <div style="width: 48%; padding: 10px;">
     <h3>Programas y herramientas</h3>
     <ul>
       <li>Android Studio (Intermedio)</li>
@@ -49,7 +49,17 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Top Lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=MelChita5&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="width: 48%; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MelChita5&show_icons=true&theme=radical" alt="Alexandra Macedo's GitHub Stats">
+  </div>
+
+  <div style="width: 48%; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelChita5&layout=compact&theme=radical" alt="Top Lenguajes">
+  </div>
+
+</div>
 
 ---
 
@@ -61,4 +71,5 @@
 ---
 
 ✨ _"La programación no es solo código, es la capacidad de imaginar y crear algo que marque la diferencia."_ ✨
+
 
